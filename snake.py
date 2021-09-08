@@ -1,5 +1,4 @@
-# Snake Game by James Coates
-
+# Snake Game by Nexus PCs
 import turtle
 import time
 import random
