@@ -1,4 +1,4 @@
-# Snake Game by Nexus PCs
+# Snake Game by blockchaindev91
 import turtle
 import time
 import random

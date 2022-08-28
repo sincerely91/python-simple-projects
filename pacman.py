@@ -1,4 +1,4 @@
-# Pacman Game by Nexus PCs
+# Pacman Game by blockchaindev91
 
 from random import choice
 from turtle import *
